@@ -1,7 +1,7 @@
 # Rookie on Quest for Quest 2🛡️
 
 # What is this
-this is a rookie sideloader games downloader and auto sideload app for quest 2/3s/3. This app has a completly different look and feel to [Rookie on Quest](https://github.com/LeGeRyChEeSe/rookie-on-quest/tree/main/app). But has all of the features minising some tha serve no purpose for simple downloaing/install/browsing games
+this is a rookie sideloader games downloader and auto sideload app for quest 2/3s/3. This app has a completly different look and feel to [Rookie on Quest](https://github.com/LeGeRyChEeSe/rookie-on-quest/tree/main/app). But has all of the features minising some that serve no purpose for simple downloaing/install/browsing games
 
 # Features
 - **Browse a huge libary of vr games**: browse a huge database of games that rookie sideloader handle. this makes it so all games our app to date

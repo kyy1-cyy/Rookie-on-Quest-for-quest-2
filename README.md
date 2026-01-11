@@ -4,7 +4,7 @@
 this is a rookie sideloader games downloader and auto sideload app for quest 2/3s/3. This app has a completly different look and feel to [Rookie on Quest](https://github.com/LeGeRyChEeSe/rookie-on-quest/tree/main/app). But has all of the features minising some that serve no purpose for simple downloaing/install/browsing games
 
 # Features
-- **Browse a huge libary of vr games**: browse a huge database of games that rookie sideloader handle. this makes it so all games our app to date
+- **Browse a huge libary of vr games**: browse a huge database of games that rookie sideloader handle. this makes it so all games our games our up to date
 - **Game Donations**: rookie realise and game donations for nearly every game. this means you can click the button. choose one of your games thats not in the database already/isnt uncrackable. then it will be uplaoded to rookies server so this app isnt just using there servers without doing anything like rookie on quest
 - **Auto Sideload**: with this feature turned on. When games are done installing if this slider is turned on it will first promt you to install the apk (manual) then it will sideload the obb folder (auto) finishing the games instalation
 - **Background and Queue system**: this app like rookie on quest supports allowing the user to click on the background button which lets the download happen in the backgroudn while they get to browse games. it also allows for queue system. just click another game while installing the first one and it will be added to the queue and will start downloaing once the first one is done.
